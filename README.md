@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there! :wave:
 
-<!--
-**ichsanseanaldi/ichsanseanaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Front-End (and bit of Back-End) Dev from Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+- Currently working on my upcoming project 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Exploring Mobile development 📱
+
+- Feel free to explore my profile :octocat:
+
+---
+
+## My Stats :100: 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ichsanseanaldi&theme=react&border_radius=4.6&background=000000&sideNums=DD0078&currStreakNum=DD0078)](https://git.io/streak-stats)
+
+Cheers! :beers:
