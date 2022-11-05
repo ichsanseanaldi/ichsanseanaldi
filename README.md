@@ -1,6 +1,6 @@
 ## Hi there! :wave:
 
-I am a Front-End (and bit of Back-End) Dev from Indonesia 🇮🇩
+I am a Front-End Dev from Indonesia 🇮🇩
 
 - Currently working on my upcoming project 💻
 
