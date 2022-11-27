@@ -14,4 +14,6 @@ I am a Front-End Dev from Indonesia 🇮🇩
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ichsanseanaldi&theme=react&border_radius=4.6&background=000000&sideNums=DD0078&currStreakNum=DD0078)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichsanseanaldi&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 Cheers! :beers:
